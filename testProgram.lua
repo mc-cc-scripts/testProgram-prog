@@ -1,1 +1,2 @@
+require("testRequire")
 print("testProgram")
