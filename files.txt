@@ -1,1 +1,2 @@
 testProgram.lua
+testRequire.lua
