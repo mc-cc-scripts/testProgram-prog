@@ -1,2 +1,3 @@
 testProgram.lua
 testRequire.lua
+testPrint.lua
