@@ -1,2 +1,2 @@
---@require testLibrary
-require("./libs/testLibrary")
+local scm = require("./scm")
+scm:load("./libs/testLibrary")
